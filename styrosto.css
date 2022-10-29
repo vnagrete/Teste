@@ -1,0 +1,222 @@
+
+.titulo
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    vertical-align: middle;
+    text-align: center;
+}
+
+.links
+{
+    display: flex;
+}
+
+.div1
+{
+    display: flex;
+}
+.imagem1
+{
+    margin-left: 10px;
+}
+.descrição1
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    vertical-align: middle;
+    max-width: 800px;
+    min-width: 540px;
+
+}
+.si22
+{
+    padding-left: 10px;
+}
+.si22:hover
+{
+    transform: scale(1.1);
+}
+.i22
+{
+    padding-left: 30px;
+}
+.i22:hover
+{
+    transform: scale(1.1);
+}
+
+
+
+
+.div2
+{
+    display: flex; 
+}
+.imagem2
+{
+    margin-left: 5px;
+}
+.descrição2
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    vertical-align: middle;
+    max-width: 800px;
+    min-width: 540px;
+}
+.engrenagens3
+{
+    padding-left: 60px;
+}
+.engrenagens4
+{
+    padding-left: 170px;
+}
+.si33
+{
+    padding-left: 10px;
+}
+.si33:hover
+{
+    transform: scale(1.1);
+}
+.i33
+{
+    padding-left: 30px;
+}
+.i33:hover
+{
+    transform: scale(1.1);
+}
+.si34
+{
+    padding-left: 30px;
+}
+.si34:hover
+{
+    transform: scale(1.1);
+}
+.i34
+{
+    padding-left: 30px;
+}
+.i34:hover
+{
+    transform: scale(1.1);
+}
+
+
+
+.div3
+{
+    display: flex;
+}
+.imagem3
+{
+    margin-left: 5px;
+    margin-right: 20px;
+    margin-top: 5%;
+}
+.descrição3
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    max-width: 780px;
+    min-width: 600px;
+}
+.engrenagensE
+{
+    padding-left: 60px;
+}
+.engrenagensD
+{
+    padding-left: 190px;
+}
+.engrenagensD5
+{
+    padding-left: 190px;
+}
+
+.siE
+{
+    padding-left: 40px;
+}
+.siE:hover
+{
+    transform: scale(1.1);
+}
+.iE
+{
+    padding-left: 40px;
+}
+.iE:hover
+{
+    transform: scale(1.1);
+}
+.siD
+{
+    padding-left: 50px;
+}
+.siD:hover
+{
+    transform: scale(1.1);
+}
+.iD
+{
+    padding-left: 50px;
+}
+.iD:hover
+{
+    transform: scale(1.1);
+}
+
+.barra
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14px;
+
+    vertical-align: middle;
+    border-top: 1px solid;
+    border-color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
+
+.universidade
+{
+    display: inline;
+}
+.nomes
+{
+    display:inline;
+    line-height: 0px;
+    margin:0 auto;
+    text-align: center;
+    max-height: 50px;
+    max-width: 250px;
+}
+
+
+
